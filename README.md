@@ -6,7 +6,10 @@ The solve function takes a list of numbers and a single number and returns all t
 
 Input: [1,2,3,4] 10
 
-output: (1 + 2) + (3 + 4) = 10
+output:
+     
+     (1 + 2) + (3 + 4) = 10
+     
      (1 * 2 * 3) + 4 = 10
      and so on....
      
