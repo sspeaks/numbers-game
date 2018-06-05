@@ -1,3 +1,7 @@
+Module Fours
+    ( solve
+    ) where
+
 import           Control.Applicative hiding (many, (<|>))
 import           Control.Monad
 import           Data.List
