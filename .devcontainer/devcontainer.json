@@ -1,0 +1,6 @@
+{
+	"name": "Haskell Sample",
+	"dockerFile": "Dockerfile",
+	"appPort": 9000,
+	"context": "..",
+}
