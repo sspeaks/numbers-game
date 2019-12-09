@@ -3,4 +3,7 @@
 	"dockerFile": "Dockerfile",
 	"appPort": 9000,
 	"context": "..",
+	"extensions": [
+		"alanz.vscode-hie-server"
+	],
 }
